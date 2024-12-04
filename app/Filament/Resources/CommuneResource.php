@@ -81,6 +81,11 @@ class CommuneResource extends Resource
         return __('commune');
     }
 
+    public static function getPluralModelLabel(): string
+    {
+        return __('communes');
+    }
+
     public static function getTitleCaseModelLabel(): string
     {
         return __('Commune');

@@ -103,6 +103,11 @@ class OrphanResource extends Resource
         return __('orphan');
     }
 
+    public static function getPluralModelLabel(): string
+    {
+        return __('orphans');
+    }
+
     public static function getTitleCaseModelLabel(): string
     {
         return __('Orphan');

@@ -172,6 +172,11 @@ class WidowResource extends Resource
         return __('widow');
     }
 
+    public static function getPluralModelLabel(): string
+    {
+        return __('widows');
+    }
+
     public static function getTitleCaseModelLabel(): string
     {
         return __('Widow');

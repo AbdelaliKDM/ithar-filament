@@ -1,25 +1,39 @@
 {
     "Provinces": "الولايات",
     "Province": "الولاية",
+    "provinces": "ولايات",
     "province": "ولاية",
+
     "Communes": "البلديات",
     "Commune": "البلدية",
+    "communes": "بلديات",
     "commune": "بلدية",
+
     "Widows": "الأرامل",
     "Widow": "الأرملة",
+    "widows": "أرامل",
     "widow": "أرملة",
+
     "Orphans": "الأيتام",
     "Orphan": "اليتيم",
+    "orphans": "أيتام",
     "orphan": "يتيم",
+
     "Households": "المساكن",
     "Household": "المسكن",
+    "households": "مساكن",
     "household": "مسكن",
+
     "Spouses": "الأزواج",
     "Spouse": "الزوج",
+    "spouses": "أزواج",
     "spouse": "زوج",
+
     "Incomes": "المداخيل",
     "Income": "المدخول",
+    "incomes": "مداخيل",
     "income": "مدخول",
+
     "salaries": "مجموع الرواتب",
     "bonuses": "مجموع المنح",
     "created_at": "تاريخ الإنشاء",
